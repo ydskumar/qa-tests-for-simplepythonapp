@@ -1,0 +1,8 @@
+.allure
+.settings
+allure-results/
+target/
+.classpath
+.project
+
+
